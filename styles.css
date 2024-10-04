@@ -1,4 +1,23 @@
+*{
+    font-family: acumin-pro, sans-serif;
+    
+}
+
 .star{
     border-radius: 50%;
     border: red;
 }
+
+
+    /* @media screen and (max-width: 600px) {
+
+        .ship {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        
+        }
+          
+    } */
+      
+       
